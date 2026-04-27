@@ -1,1 +1,1 @@
-# ibrahim-hoca ödev
+# ibrahim hoca ödev

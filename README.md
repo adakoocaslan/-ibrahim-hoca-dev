@@ -1,1 +1,1 @@
-# -ibrahim-hoca-dev
+# ibrahim-hoca ödev
